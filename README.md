@@ -1,4 +1,24 @@
-### Hi there 👋
+# Danny 👋
+### Front-End Engineer
+
+<br />
+
+### What Projects I did?
+- [Charger](https://github.com/Dann1y/Charger_Client)
+- [Dotori](https://github.com/GwonHeeJun/Dotori-Client)
+- [Olio](https://github.com/softwareProjectClub-Sha/Olio_Client)
+- [ONDO](https://github.com/JAKoreaEPOndo/ONDO-Client)
+
+<br />
+
+### Main Stack
+<div style="display: flex">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40px" height="40px" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="40px" height="40px" />
+  <img src="https://www.styled-components.com/atom.png" width="40px" height="40px" />
+</div>
+
+
 
 <!--
 **skypedanny/skypedanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
