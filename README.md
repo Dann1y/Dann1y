@@ -1,12 +1,18 @@
 # Danny 👋
-### Front-End Engineer
+## I am..
+I love React Hooks..♥
+
+## Contact
+skypedanny@naver.com
 
 <br />
 
-### What Projects I did?
+
+
+## What Projects I did?
 - [Charger](https://github.com/Dann1y/Charger_Client)
-- [Dotori](https://github.com/GwonHeeJun/Dotori-Client)
-- [Olio](https://github.com/softwareProjectClub-Sha/Olio_Client)
+- [Dotori](https://github.com/Dann1y/Dotori-Client)
+- [Olio](https://github.com/Dann1y/Olio_Client)
 - [ONDO](https://github.com/JAKoreaEPOndo/ONDO-Client)
 
 <br />
