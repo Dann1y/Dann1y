@@ -13,7 +13,7 @@ skypedanny@naver.com
 - [Charger](https://github.com/Dann1y/Charger_Client)
 - [Dotori](https://github.com/Dann1y/Dotori-Client)
 - [Olio](https://github.com/Dann1y/Olio_Client)
-- [ONDO](https://github.com/JAKoreaEPOndo/ONDO-Client)
+- [ONDO](https://github.com/Dann1y/ONDO_Client)
 
 <br />
 
