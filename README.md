@@ -8,7 +8,7 @@ Welcome to my github making history by dann1y!🙌 I love to grow by challenging
 
 ## 😊 My values
 
-😉 Fearless frontiership<br />
+😉 Fearless challenge<br />
 😼 Strong mentality<br />
 🤝 Growing together<br />
 💁🏻‍♂️ Smooth communication<br />
