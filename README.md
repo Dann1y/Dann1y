@@ -17,25 +17,15 @@ I know exactly what to do.
 
 ## 🎯 What Projects I did?
 
-🖊Bridged (2021 ~ ): https://github.com/bridgedxyz<br />
+🖊Bridged (2021.03. ~ 2021.05.): https://github.com/bridgedxyz<br />
 🥑Olio (2020 ~ 2021): https://github.com/Smart-Highschool-Ace/Olio2_Client<br />
 🌡ONDO (2020): https://github.com/AndanteDev/ONDO_Client<br />
 ⚡Charger (2019): https://github.com/GwonHeeJun/Charger_Client<br />
-
-## 🎖 I'm contributing opensource
-
-<h3><strong>Bridged</strong></h3>
-Contributing to Bridged as an open source contributor. <br />
-We organize page UI, create an organizational culture, communicate and collaborate with various people, and having new experiences!
-
-[Click Here!](https://github.com/bridgedxyz)
-<br />
 
 ## 👨🏻‍💻 Main Stack
 
 <p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></code>
-<code><img height="20" src="https://www.honext.io/static/images/next_logo.png" style="max-width:100%;"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width:100%;"></code>
