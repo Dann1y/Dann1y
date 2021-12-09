@@ -4,7 +4,7 @@
 
 <strong>I'm dann1y, Software Engineer from Korea🇰🇷.</strong>
 
-Welcome to my github making history by dann1y!🙌 I love to grow by challenge valuable things together.
+I love to grow by challenge valuable things together.
 
 ## 😊 My values
 
@@ -13,20 +13,11 @@ Welcome to my github making history by dann1y!🙌 I love to grow by challenge v
 🤝 `Growing together`<br />
 💁🏻‍♂️ `Smooth communication`<br />
 
-I know exactly what to do.
-
 ## 🏢 I'm working on
 
 [EJN KOREA](https://ejn.gg/kr)
 
 Flanet Team
-
-## 🎯 What Projects I did?
-
-🖊`Bridged` (2021.03. ~ 2021.05.): https://github.com/bridgedxyz<br />
-🥑`Olio` (2020 ~ 2021): https://github.com/Smart-Highschool-Ace/Olio2_Client<br />
-🌡`ONDO` (2020): https://github.com/AndanteDev/ONDO_Client<br />
-⚡`Charger` (2019): https://github.com/GwonHeeJun/Charger_Client<br />
 
 ## 👨🏻‍💻 Main Skills
 
