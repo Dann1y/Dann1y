@@ -4,20 +4,17 @@
 
 <strong>I'm dann1y, Software Engineer from Korea🇰🇷.</strong>
 
-I love to grow by challenge valuable things together.
-
 ## 😊 My values
 
 😉 `Fearless challenge`<br />
 😼 `Strong mentality`<br />
-🤝 `Growing together`<br />
 💁🏻‍♂️ `Smooth communication`<br />
 
 ## 🏢 I'm working on
 
 [EJN KOREA](https://ejn.gg/kr)
 
-Flanet Team
+Front-End Team
 
 ## 👨🏻‍💻 Main Skills
 
