@@ -10,12 +10,6 @@
 😼 `Strong mentality`<br />
 💁🏻‍♂️ `Smooth communication`<br />
 
-## 🏢 I'm working on
-
-[EJN KOREA](https://ejn.gg/kr)
-
-Front-End Team
-
 ## 👨🏻‍💻 Main Skills
 
 <p>
@@ -26,8 +20,8 @@ Front-End Team
 
 ## 🖥 Get in touch
 
-📄 Blog : https://danerally.tistory.com <br />
-📮 Email : leedanny0102@gmail.com
+📄 [Blog](https://docs.essential-dev.blog/) <br />
+📮 [Email](leedanny0102@gmail.com)
 
 <!--
 **skypedanny/skypedanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
