@@ -1,19 +1,6 @@
-# <div align="center"> I'm Dann1y 👋 </div>
+<strong>Problem solver. focused on the essential problems,</strong>
 
-<br />
-
-<strong>I'm dann1y, Software Engineer from Korea🇰🇷.</strong>
-
-## 😊 My values
-
-😉 `Fearless challenge`<br />
-😼 `Strong mentality`<br />
-💁🏻‍♂️ `Smooth communication`<br />
-
-## 👨🏻‍💻 Main Skills
-
-<p>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></code>
-</p>
+- 👨🏻‍💻 Working as a Frontend developer 
+- 🗄️ I'm interested in separating the concerns of the components by data
+- 💨 I like to improve web performance and reduce inefficiencies.
+- 👥 The **"Essence"** of a developer is to contribute to solving users' inconvenience.
