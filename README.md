@@ -1,4 +1,2 @@
-- 👨🏻‍💻 Working as a Frontend developer.
-- 🗄️ I'm interested in separating the concerns of the components by data.
-- 💨 I like to improve web performance and reduce inefficiencies.
-- 👥 The **"Essence"** of a developer is to contribute to solving users' inconvenience.
+- 👨🏻‍💻 Working as a Frontend developer, 2+ years of experience in creator sponsor platform.
+- 👥 The **Essence** of a developer is solving user's needs & problem.
