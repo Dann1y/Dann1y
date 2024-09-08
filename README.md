@@ -1,2 +1,3 @@
-- 👨🏻‍💻 Working as a Frontend developer, 2+ years of experience in creator sponsor platform.
-- 👥 The **Essence** of a developer is solving user's needs & problem.
+- 👨🏻‍💻 3+ years of experience, working as a Frontend developer.
+- 🛴 Contributing to a shared mobility service, THE SWING.
+- 👥 The **Essence** of a developer is solving user's needs & business problems.
