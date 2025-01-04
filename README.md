@@ -1,3 +1,2 @@
-- 👨🏻‍💻 3+ years of experience, working as a Frontend developer.
-- 🛴 Contributing to a shared mobility service, THE SWING.
-- 👥 The **Essence** of a developer is solving user's needs & business problems.
+- Solving problems, working as a Product Manager.
+- Contributing to a shared mobility service, THE SWING.
